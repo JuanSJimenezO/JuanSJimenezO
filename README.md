@@ -169,7 +169,7 @@ print(
 
   <li>
     <h4 font-weight = bold> 
-      <a href = https://github.com/JuanSJimenez2890/Database/tree/main/Yahoo_Finance>
+      <a href = https://github.com/JuanSJimenezO/Database/tree/main/Yahoo_Finance>
         Yahoo Finance Extraction,Transform, and Load Process
       </a>
     </h4>
@@ -178,7 +178,7 @@ print(
       <ul>
         <li>
           <p>
-            <a href = https://github.com/JuanSJimenez2890/Database/tree/main/Yahoo_Finance/Extract>
+            <a href = https://github.com/JuanSJimenezO/Database/tree/main/Yahoo_Finance/Extract>
               <b>Extraction Layer</b>
             </a>
           </p>
