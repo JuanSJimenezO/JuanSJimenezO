@@ -190,7 +190,7 @@ print(
         </li>
         <li>
           <p>
-            <a href = https://github.com/JuanPChicaC/DataBases/tree/main/ETL/Yahoo%20Finance%20ETL%20Process/Transform>
+            <a href = >
               <b>Transformation Layer</b>
             </a>
           </p>
@@ -198,12 +198,12 @@ print(
         </li>
         <li>
           <p>
-            <a href = https://github.com/JuanPChicaC/DataBases/tree/main/ETL/Yahoo%20Finance%20ETL%20Process/Load>
+            <a href = >
               <b>Load Layer</b>
             </a>          
           </p>
           <p>In this step, the records are pushed into the 
-            <a href = https://github.com/JuanPChicaC/DataBases/tree/main/SQL/Portfolio%20Optimization%20DataBase>
+            <a href = >
               Portfolio Optimization DataBase
             </a>
           </p>
