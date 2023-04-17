@@ -182,7 +182,7 @@ print(
               <b>Extraction Layer</b>
             </a>
           </p>
-          <p>Web Scrapper that mines the  
+          <p>Web Scraper that mines the  
             <a href = https://finance.yahoo.com/lookup>
             Yahoo Finance symbols list
             </a>
